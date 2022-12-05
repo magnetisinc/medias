@@ -1,5 +1,10 @@
 {
     "name": "magnetisinc/medias",
     "type": "library",
-    "require": {}
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "Magnetis\\": "./src"
+      }
+    }
 }

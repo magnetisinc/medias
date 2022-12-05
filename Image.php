@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models\Medias;
+namespace Magnetis\Medias;
 
 class Image extends Media
 {

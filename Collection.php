@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models\Medias;
+namespace Magnetis\Medias;
 
 use App\BasicTypes\StringList;
 
